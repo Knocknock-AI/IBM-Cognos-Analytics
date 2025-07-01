@@ -47,5 +47,5 @@ These techniques leverage Cognos' full dashboarding capabilities, including prop
 - Custom visualization elements (e.g., icons, calculated fields)
 - Manual chart configuration and data field manipulation
 
-
+🔗 IBM Cognos Embed Link (accessible only with proper credentials):
 <iframe src="https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FCustomer%2BLoyalty%2BProgram&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model00000197aba8750f_00000002" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
