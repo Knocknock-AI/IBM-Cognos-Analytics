@@ -1,5 +1,3 @@
 # IBM-Cognos-Analytics
-Project about a customer loyalty program, from sales to demographics, showcasing my skills in data visualization, EDA, and IBM Cognos Analytics
-
-<a href="https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCustomer%2BLoyalty%2BProgram&action=view&mode=dashboard&subView=model00000197aba8750f_00000002" target="_blank">here</a>
+I developed this interactive dashboard using IBM Cognos Analytics to explore product sales and customer data. The dashboard includes multiple pages with dynamic visualizations such as bar charts, maps, packed bubbles, and radial charts. Users can compare product performance by year, view revenue and quantity sold, and analyze customer distribution across locations. I also implemented advanced features like custom calculations, icon-based visuals, data filtering, and navigation paths to enhance interactivity and usability.
 
