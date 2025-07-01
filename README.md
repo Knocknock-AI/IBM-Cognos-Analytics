@@ -40,14 +40,20 @@ These techniques leverage Cognos' full dashboarding capabilities, including prop
 
 ---
 
-## 🔧 Tools Used
+## 🛠️ Key Skills Demonstrated
 
-- **IBM Cognos Analytics 11.x**
-- Cognos Assistant (for AI-generated chart suggestions)
-- Custom visualization elements (e.g., icons, calculated fields)
-- Manual chart configuration and data field manipulation
+This project highlights my proficiency in the following areas:
 
+- **Business Intelligence (BI)**: Designed and delivered multi-layered dashboards to support data-driven decision making.
+- **Data Visualization**: Created intuitive, interactive visualizations to communicate trends, comparisons, and insights clearly.
+- **Data Analysis**: Interpreted sales and customer data to uncover performance patterns, segment behavior, and geographic trends.
+- **Dashboard Design**: Structured visual content across multiple pages with clean layouts, consistent formatting, and logical navigation paths.
+- **Data Storytelling**: Presented complex metrics using charts, KPIs, and icons in a narrative format that guides the viewer through key insights.
+- **User Experience in BI Tools**: Integrated interactive elements such as filters, drill-through navigation, and dynamic views to enhance exploration.
 ---
 
-🔗 IBM Cognos Embed Link (accessible only with proper credentials):
-<iframe src="https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FCustomer%2BLoyalty%2BProgram&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model00000197aba8750f_00000002" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+## 📄 View the Full Report
+
+You can view the full dashboard report with all visualizations and pages in PDF format:
+
+📎 [Customer and Sales Insights Dashboard on IBM Cognos Analytics (PDF)](Report/Customer%20and%20Sales%20Insights%20Dashbord%20on%20IBM%20Cognos%20Analytics.pdf)
